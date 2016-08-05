@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.1):
+    - Alamofire (~> 3.3)
+  - Argo (3.1.0)
+  - Curry (2.3.3)
+  - Firebase (2.5.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Argo
+  - Curry
+  - Firebase (= 2.5.1)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 3ccf3347d9ea24580dc11fb892770a0be6a29826
+  Argo: bb0e94e309d6ceb8fa58910205c8968be101e429
+  Curry: 37223f4467e4802a08b6a414b526dcd919a4a777
+  Firebase: 83234b17b19f06e0f226e06259f5c532d274d481
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
